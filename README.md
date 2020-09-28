@@ -5,7 +5,7 @@ To digitalize the college visiting system
 
 The data of the new visitors visiting the campus will be stored in the database. With this system the visitor’s information can be stored in the database, so that in the future it shall be used for the reference. The data will be stored in the SQL SERVER as the backend. This software will help an organization to do the job effectively and give an all round development of the project.
 
-##The major features of the College Visitor Management System are:
+#The major features of the College Visitor Management System are:
 1. The in and out time of the visitors is stored in the database.
 2. Name, address and all other information regarding the visitor.
 3. There will also be provision to retrieve the data from the database for the future references.
@@ -14,6 +14,7 @@ The data of the new visitors visiting the campus will be stored in the database.
 6. Appointments of the Visitors with the Faculty will also be stored in the database.
 
 #Requirement Analysis
+
 Module: College Visitor Management System
 Overview Statement: The purpose of this module is to store the information of the visitor’s visiting the campus.
 Customer: Visitor
